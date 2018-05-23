@@ -1,2 +1,2 @@
 # WebSocket
-Ejemplo de Java WebSockets
+Ejemplo de chat con Java WebSockets
